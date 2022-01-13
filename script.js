@@ -1,4 +1,4 @@
-let deadline = '2022-02-01'
+let deadline = '2022-04-01'
 
 const timer = (id, deadline) => {
    const addZero = (num) => {
